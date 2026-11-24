@@ -1,0 +1,65 @@
+{
+  "holdout": null,
+  "if_threshold": -0.5844917565020525,
+  "ensemble_macro_f1": 1.0,
+  "latency_ms_batch": 0.04058319687903232,
+  "latency_ms_single": 45.84471799986204,
+  "shap_top": [
+    [
+      "Init_Win_bytes_forward",
+      1.9275301694869995
+    ],
+    [
+      "Total Fwd Packets",
+      1.2232004404067993
+    ],
+    [
+      "Packet Length Variance",
+      0.7460333704948425
+    ],
+    [
+      "Destination Port",
+      0.6687394380569458
+    ],
+    [
+      "Fwd Packet Length Mean",
+      0.21405097842216492
+    ],
+    [
+      "Bwd Packet Length Mean",
+      0.1398192048072815
+    ],
+    [
+      "Flow Duration",
+      0.0960555449128151
+    ],
+    [
+      "Flow IAT Mean",
+      0.037044234573841095
+    ],
+    [
+      "Flow Packets/s",
+      0.009511410258710384
+    ],
+    [
+      "Total Backward Packets",
+      0.009254900738596916
+    ],
+    [
+      "Flow Bytes/s",
+      0.004731886088848114
+    ],
+    [
+      "SYN Flag Count",
+      0.0
+    ],
+    [
+      "ACK Flag Count",
+      0.0
+    ],
+    [
+      "Protocol_TCP",
+      0.0
+    ]
+  ]
+}
